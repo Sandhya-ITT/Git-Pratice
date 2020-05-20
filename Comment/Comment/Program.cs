@@ -4,12 +4,11 @@ using System.IO;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-//<summary> Assignment to get the blog name and print the information</summary>
 namespace Assignment3
 {
     class DisplayBlog
     {
-        //<summary> Prints the details returned in json response</summary>
+  
         public void Details(dynamic jsonObject)
         {
             try
