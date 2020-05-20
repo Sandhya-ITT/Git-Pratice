@@ -4,7 +4,7 @@ using System.IO;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Assignment3
+namespace Comments
 {
     class DisplayBlog
     {
