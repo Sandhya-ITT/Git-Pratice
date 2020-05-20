@@ -1,9 +1,0 @@
-C:\Users\sandhya.e\source\repos\Comment\Comment\bin\Debug\Comment.exe.config
-C:\Users\sandhya.e\source\repos\Comment\Comment\bin\Debug\Comment.exe
-C:\Users\sandhya.e\source\repos\Comment\Comment\bin\Debug\Comment.pdb
-C:\Users\sandhya.e\source\repos\Comment\Comment\bin\Debug\Newtonsoft.Json.dll
-C:\Users\sandhya.e\source\repos\Comment\Comment\bin\Debug\Newtonsoft.Json.xml
-C:\Users\sandhya.e\source\repos\Comment\Comment\obj\Debug\Comment.csprojAssemblyReference.cache
-C:\Users\sandhya.e\source\repos\Comment\Comment\obj\Debug\Comment.csproj.CopyComplete
-C:\Users\sandhya.e\source\repos\Comment\Comment\obj\Debug\Comment.exe
-C:\Users\sandhya.e\source\repos\Comment\Comment\obj\Debug\Comment.pdb
