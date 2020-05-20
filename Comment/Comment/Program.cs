@@ -50,6 +50,7 @@ namespace Comments
             dynamic jsonObject = JsonConvert.DeserializeObject<dynamic>(response);
             DisplayBlog blog = new DisplayBlog();
             blog.Details(jsonObject);
+            Console.ReadKey();
         }
     }
 }
